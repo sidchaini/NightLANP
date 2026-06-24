@@ -30,7 +30,7 @@ dependencies = [
     "matplotlib>=3.7",
     "tqdm>=4.65",
     "keras>=3",
-    # "keras-neural-processes>0.0.1"
+    "keras-neural-processes>=0.1"
 ]
 
 [tool.setuptools.dynamic]

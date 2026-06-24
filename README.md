@@ -1,4 +1,11 @@
-# NightLANP
+<h1 align="left">
+<picture align="center">
+  <img alt="NightLANP Logo" src="https://raw.githubusercontent.com/sidchaini/NightLANP/main/docs/_static/logo.svg" width="300">
+</picture>
+</h1>
+
 Nightly Light curve Analysis with Neural Processes
 
 This is a wrapper for astronomers to use neural processes from [`keras-neural-processes`](https://github.com/sidchaini/keras-neural-processes/) for applications to light curves in time-domain astronomy. It also contains some helper code to load, preprocess, and plot light curves.
+
+For more details about use for light curves and time-domain astronomy, please refer to [(Chaini et. al. 2026)](https://arxiv.org/pdf/2605.27527).

@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 150" width="600" height="150">
+  <defs>
+    <style>
+      @import url('https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@600&amp;display=swap');
+      .logo-text {
+        font-family: 'Space Grotesk', sans-serif;
+        font-size: 110px;
+        font-weight: 600;
+      }
+    </style>
+  </defs>
+  <text x="5" y="115" class="logo-text">
+    <tspan fill="#000000">Night</tspan><tspan fill="#7CDEB2">L</tspan><tspan fill="#DC257E">A</tspan><tspan fill="#FE6000">N</tspan><tspan fill="#FFD200">P</tspan>
+  </text>
+</svg>
